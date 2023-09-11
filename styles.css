@@ -12,5 +12,23 @@ a {
 
 
 a {
-  background-color: chocolate !important;
+  background-color: darkgreen !important;
+  color: #fff !important;
+  font-style: italic;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+  list-style: square;
+}
+
+ul li {
+  margin: 5px;
+  padding: 8px;
+}
+
+ul li a {
+  padding: 5px;
+  border-radius: 999px;
 }
